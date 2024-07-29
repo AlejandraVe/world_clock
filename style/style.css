@@ -1,4 +1,10 @@
 body
 {
-    background-color: aqua;
+    background-color: rgb(195, 251, 251);
+}
+
+h1,
+footer
+{
+    text-align: center;
 }
